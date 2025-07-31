@@ -31,10 +31,7 @@ A web-based application to manage and track inventory for businesses. Built to h
 
 ---
 
+
 ✍️ Author
-
-- Vaishnavi Kenchi
-
-# ✍️ Author
 
 - Vaishnavi Kenchi
