@@ -1,19 +1,19 @@
-# Inventory Management System
+ Inventory Management System
 
 A web-based application to manage and track inventory for businesses. Built to help streamline the process of managing stock, sales, and orders efficiently.
 
 ---
 
-## 🌐 Live Pages
+ 🌐 Live Pages
 
-- `index.html` – Home or landing page  
-- `login.html` – Login interface  
-- `dashboard.html` – User dashboard after login  
-- `inventory.html` – Inventory management page  
+- index.html – Home or landing page  
+- login.html – Login interface  
+- dashboard.html – User dashboard after login  
+- inventory.html – Inventory management page  
 
 ---
 
-## 🔧 Features
+ 🔧 Features
 
 - Add, update, delete, and search inventory items  
 - Track stock levels and sales  
@@ -23,7 +23,7 @@ A web-based application to manage and track inventory for businesses. Built to h
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 - HTML  
 - CSS  
@@ -31,6 +31,10 @@ A web-based application to manage and track inventory for businesses. Built to h
 
 ---
 
-## ✍️ Author
+✍️ Author
+
+- Vaishnavi Kenchi
+
+# ✍️ Author
 
 - Vaishnavi Kenchi
