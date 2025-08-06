@@ -34,4 +34,5 @@ A web-based application to manage and track inventory for businesses. Built to h
 
 ✍️ Author
 
-- Vaishnavi Kenchi
+-Name: Vaishnavi-Kenchi
+- Email:Kenchivaishnavi2605@gmail.com
